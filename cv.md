@@ -4,8 +4,13 @@
 ---
 ### Contact information:
 
-**Phone:** +7 000 0000000
-**E-mail:** _@gmail.com
-**Telegram:** @n_yevil
-***
-Briefly About Myself:
++ **Phone:** +7 702 0000000
++ **E-mail:** nurliyev.yedil@gmail.com
++ **Telegram:** @n_yevil
++ **Discord:** @nurliyev
+---
+**Briefly About Myself:**
+
+Been wanting to learn a new field of developer in programming for years now.
+
+---
